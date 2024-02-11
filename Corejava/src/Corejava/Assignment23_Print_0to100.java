@@ -1,0 +1,14 @@
+package Corejava;
+
+public class Assignment23_Print_0to100 {
+
+	public static void main(String[] args) 
+	{
+		for(int i=0; i<=100; i++)
+		{
+			System.out.println(i);
+		}
+
+	}
+
+}
