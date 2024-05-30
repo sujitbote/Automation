@@ -1,2 +1,2 @@
-hi,
-this is conflicted file
+Hi,
+his is conflicted file, by sujit
