@@ -1,3 +1,3 @@
 hi,
-this is confliched file, made by sujit1
+this is confliched file
 
